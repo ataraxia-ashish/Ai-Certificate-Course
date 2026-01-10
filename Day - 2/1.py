@@ -1,4 +1,3 @@
-#r@ndom#stuff0257
 age = 10
 print(age)
 print(type(age))
