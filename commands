@@ -7,5 +7,5 @@ git remote add origin https://github.com/veershah-sh/ai-course.git
 git push -u origin main
 
 
-git config --global user.name "Veer"
-git config --global user.email "vsd30377@gmail.com"
+git config --global user.name "Ashish"
+git config --global user.email "ashmakwana29@gmail.com"
