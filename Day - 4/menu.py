@@ -114,13 +114,13 @@ while True:
     print("3. Gloves $ 1")
     print("4. Helmet  $ 3")
     print("5. Exit")
-    choice_tennis = input("Enter equipment you want to purchase : ")
-    if choice_tennis == 5:
+    choice_hockey = input("Enter equipment you want to purchase : ")
+    if choice_hockey == 5:
         print("Exiting program : ")
-    elif choice_tennis > 5:
+    elif choice_hockey > 5:
         print("Invalid choice !! ")
     else :
-        match choice_tennis: 
+        match choice_hockey: 
         case 1 :
         print("The Hockey stick purchased has been confirmed")
         case 2 :
