@@ -4,10 +4,10 @@ Myself = {
     "Last name": "Makwana",
     "Parents": {
         "Father":{
-            "name": "Bipinbhai"
+            "name": " "
         },
         "Mother":{
-            "name": "Bipinbhai"
+            "name": " "
         }
     },
     "Qualifications": ["SSC", "HSC", "BCA"],
