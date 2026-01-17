@@ -11,7 +11,9 @@ Myself = {
         }
     },
     "Qualifications": ["SSC", "HSC", "BCA"],
-    "Hobbies": {"Mind":"Chess","Music":"Flute"},
+    "Hobbies": {
+        "Mind":"Chess",
+        "Music":"Flute"},
 }
 
 print(Myself)
